@@ -1,0 +1,115 @@
+body {
+  background-color: #fff;
+  color: #777;
+  font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+p {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Crete Round', serif;
+  font-weight: bold;
+  color: #444;
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-weight: 300;
+  color: #444;
+  font-size: 55px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #444;
+}
+
+a:hover {
+  color: #02b8dd;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.wrapper {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 940px;
+}
+
+header {
+  height: 120px;
+}
+
+header h1 {
+  float: left;
+  margin-top: 32px;
+}
+
+header nav {
+  float: right;
+}
+
+header nav ul li {
+  float: left;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+header nav ul li a {
+  color: #B68D40;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin-right: 20px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  width: 30%;
+}
+
+#info {
+  padding: 60px 0;
+  text-align: center;
+}
+
+#info h3 {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 400px;
+  border-bottom: 1px solid #B68D40;
+  padding: 0 0 20px 0;
+}
+
+.button-2 {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #B68D40;
+  color: #B68D40;
+  border-radius: 10px;
+  width: 120px;
+  height: 50px;
+  font-size: 17px;
+  line-height: 50px;
+}
+
+.button-2:hover {
+  background-color: #B68D40;
+  color: #fff;
+}
